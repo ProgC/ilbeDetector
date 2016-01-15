@@ -1,0 +1,9 @@
+e:\projects\ilbeDetector\ilbeDetector\bin\Debug\ilbeDetector.exe.config
+e:\projects\ilbeDetector\ilbeDetector\bin\Debug\ilbeDetector.exe
+e:\projects\ilbeDetector\ilbeDetector\bin\Debug\ilbeDetector.pdb
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.csprojResolveAssemblyReference.cache
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.Properties.Resources.resources
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.csproj.GenerateResource.Cache
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.exe
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.pdb
+e:\projects\ilbeDetector\ilbeDetector\obj\Debug\ilbeDetector.frmilbeDetector.resources
